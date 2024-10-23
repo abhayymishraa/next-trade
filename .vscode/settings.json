@@ -1,0 +1,15 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": "on",
+    "editor.codeActionWidget.includeNearbyQuickFixes": true,
+    "editor.codeActionWidget.showHeaders": true,
+    "editor.codeLens": true,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.suggest.showVariables": true,
+    "editor.suggest.showWords": true,
+    "editor.suggest.showValues": true,
+    "editor.suggest.showTypeParameters": true,
+    "editor.suggest.showStructs": true,
+    "editor.suggest.showSnippets": false
+}
